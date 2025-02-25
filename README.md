@@ -1,14 +1,14 @@
 ### Hi there 👋 Welcome to my GitHub profile :octocat:
 
-- 🔭 I’m currently working on the Dynamics of Social Behavior as a postdoc at the [Max Planck for Evolutionary Biology](https://www.evolbio.mpg.de/2169/en). 
+- 🔭 I’m currently working on the Discrete Event Simulation team as a research scientist at the [RIKEN Center for Computational Science](https://www.r-ccs.riken.jp/en/). 
 
-- 🌱 I’m currently learning about Evolutionary Dynamics.
+- 🌱 I’m currently learning C++.
 
 - 🤝 I’m looking to collaborate with passionate people on research software development.
 
 - 💬 Ask me about best practices when developing research software and all things Python 🐍.
 
-- 📫 How to reach me: I recomemned contacting me via :email: or Twitter!
+- 📫 How to reach me: I recomemned contacting me via :email: or Bluesky!
 
 - 😄 Pronouns: she/her ♀️
 
